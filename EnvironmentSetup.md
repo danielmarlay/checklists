@@ -19,6 +19,8 @@ https://www.msys2.org/
 3) Run the following command ```pacman -S mingw-w64-ucrt-x86_64-gcc```
 4) Run the following command ```pacman -S make```
 5) C drive is accessed under ```/c/``` path within MSYS
+6) Download weasyprint windows zip from https://github.com/Kozea/WeasyPrint/releases
+7) Copy Weasyprint.exe from the zip file to C:\msys64\usr\bin
 
 
 ## Other references

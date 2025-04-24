@@ -8,7 +8,7 @@ SRC_DIRS := $(wildcard $(SRC)/*)
 TARGETS := $(addsuffix .pdf,$(subst src,out,$(SRC_DIRS)))
 
 # External directories
-PANDOC=/opt/homebrew/bin/pandoc
+PANDOC=/c/Program\ Files/Pandoc/pandoc.exe
 PANDOC_OPTIONS=--defaults ./pandoc/defaults.yaml
 RM=/bin/rm -f
 
