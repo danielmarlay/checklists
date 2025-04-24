@@ -12,7 +12,7 @@
   --lightyellow: #ffe878;
   --ceilblue: #93A9D7;
   --purple: #5C4A77;
-  --item-column-font-size: 8pt;
+  --item-column-font-size: 7pt;
   --item-special-font-size: 7pt;
   --unhighlight-font-size: 7pt;
   --recovery-font-size: 9pt;
@@ -193,7 +193,7 @@ th {
 }
 
 .heading-margin {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .notice {
@@ -212,11 +212,11 @@ th {
 }
 
 .item-top-margin {
-  margin-top: 6px;
+  margin-top: 4px;
 }
 
 .item-bottom-margin {
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .item-column {
